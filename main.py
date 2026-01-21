@@ -1,3 +1,5 @@
+# First the code adds the Libraries Then the functions get implemented then it deploys sry I suck at commenting idiots.
+
 # libraries
 import cv2
 import numpy as np
